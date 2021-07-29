@@ -1,6 +1,6 @@
 <?php
 
-// Gtihub gemaakte testpagina voor combinatie met plesk NHL Stenden website
+// Gtihub made testpage for combination of plesk NHL Stenden website using github as 'pull' interface
 
 ?>
 
