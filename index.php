@@ -4,14 +4,14 @@
 
 ?>
 
-<HTML>
+<HTML lang="en">
   <HEAD>
-    <TITLE>Test pagina</TITLE>
+    <TITLE>Test page</TITLE>
   </HEAD>
   <BODY>
-    <CENTER>Test body</CENTER>
+    <div style="text-align: center;">Test body</div>
     <?php
-    printf("<H1 style='text-align: center'>PHP werkt!</H1>");
+    printf("<H1 style='text-align: center'>PHP works!!</H1>");
     ?>
   </BODY>
 </HTML>
